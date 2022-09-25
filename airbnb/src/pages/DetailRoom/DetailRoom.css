@@ -1,0 +1,16 @@
+.detail-room {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-detail-room {
+  display: flex;
+}
+.order-room {
+  border: 1px solid #1c6ea4;
+  border-radius: 20px;
+  width: 300px;
+  padding-left: 20px;
+  -webkit-box-shadow: 0px 0px 5px 2px rgba(192, 71, 255, 0.75);
+  box-shadow: 0px 0px 5px 2px rgba(192, 71, 255, 0.75);
+}
